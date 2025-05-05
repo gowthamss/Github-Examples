@@ -1,4 +1,5 @@
 on: [push]
+name: custom action
 
 jobs:
   my-job:
